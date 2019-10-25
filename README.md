@@ -1,2 +1,2 @@
 # RocketSeat-Bootcamp
-Desafios do Bootcamp da RocketSeat
+Desafio módulo 01 do Bootcamp da RocketSeat
